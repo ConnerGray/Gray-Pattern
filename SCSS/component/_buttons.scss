@@ -1,0 +1,36 @@
+button {
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.main-btn {
+    background-color: $blue;
+    color: $white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.main-btn:hover {
+    opacity: 0.9;
+}
+
+.sec-btn {
+    background-color: transparent;
+    margin-left: 30px;
+}
+
+.sec-btn:hover {
+    color: $blue;
+}
+
+.pricing-btn {
+    background-color: transparent;
+    padding: 10px 20px;
+    color: $dark;
+    border: 1px $dark solid;
+    border-radius: 5px;
+}
