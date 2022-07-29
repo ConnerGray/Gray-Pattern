@@ -40,7 +40,7 @@
 
     // Home Page
    #hero-section {
-    margin: 20px 0;
+    margin: 50px 0;
     }
 
    .hero-container {
@@ -50,6 +50,7 @@
 
    // About Section
    #about-section  {
+    margin: 50px 0;
     padding-top: 60px;
     padding-bottom: 70px;
    }
@@ -78,9 +79,6 @@
     gap: 40px;
    }
 
-   //Project Section 
-   
-
    // Services Section
    #services-page-section {
     margin: 50px 0;
@@ -105,7 +103,7 @@
     #pricing-table {
         margin: 50px 0;
     }
-    
+
     .pricing-table-grid {
         grid-template-columns: 1fr 1fr 1fr;
     }
