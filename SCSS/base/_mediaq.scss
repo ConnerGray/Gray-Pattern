@@ -68,25 +68,44 @@
    }
 
    // Price Section
+   #price-info {
+    margin: 50px 0;
+   }
+
    .price-container {
     grid-template-columns: 1fr 1fr;
     align-items: center;
     gap: 40px;
    }
 
+   //Project Section 
+   
+
    // Services Section
+   #services-page-section {
+    margin: 50px 0;
+   }
+
    .services-grid {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
    }
 
    // Project Section 
+   #project-section {
+    margin: 50px 0;
+   }
+
    .project-grid {
     grid-template-columns: 1fr 1fr 1fr;
     gap: 20px;
     }
 
     // Pricing Table Section
+    #pricing-table {
+        margin: 50px 0;
+    }
+    
     .pricing-table-grid {
         grid-template-columns: 1fr 1fr 1fr;
     }
